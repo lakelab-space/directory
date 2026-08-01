@@ -70,6 +70,7 @@
   "Forschung und Technik e.V.": "https://spaceapi.futev.de/spaceapi.json",
   "Freies Labor": "https://freieslabor.org/api/info",
   "Fuz": "https://spaceapi.fuz.re/",
+  "GEOLab": "https://geolab.space/api/spacestatus",
   "Garoa Hacker Clube": "https://status.garoa.net.br/status",
   "Gold Coast Techspace": "https://raw.githubusercontent.com/gctechspace/spaceapi-endpoint/master/spaceapi.json",
   "H.A.C.K.": "https://vsza.hu/hacksense/spaceapi_status.json",
